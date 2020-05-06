@@ -1,6 +1,10 @@
 
 ## Review Questions for Model-View-Controller Pattern
 - Why so many classes?
+We need our Config.java class because it holds our credentials
+The Quote.java class is our bean
+I'll get back to you on the QuotesDao.java
+
 - When do I need to make a new class?
 - When do I need to make a new method?
 - Why start with MVC?

@@ -14,7 +14,7 @@ public class QuotesDao {
             DriverManager.registerDriver(new Driver());
             connection = DriverManager.getConnection(
                     config.getUrl(),
-                    config.getUser(),
+                    config.getUsername(),
                     config.getPassword()
             );
         } catch (SQLException e) {
