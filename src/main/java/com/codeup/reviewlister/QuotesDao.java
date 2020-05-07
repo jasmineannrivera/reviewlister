@@ -24,7 +24,7 @@ public class QuotesDao {
     }
 //this is a method to get ALL the quotes
     public List<Quote> all() {
-        //arraylist of quotes declared, initially empty
+        //ArrayList of quotes declared, initially empty
         List<Quote> quotes = new ArrayList<>();
         //mysql query to select all quotes from quote table
         String query = "SELECT * FROM quotes";
