@@ -1,6 +1,6 @@
 package com.codeup.reviewlister;
 import com.codeup.reviewlister.Quote;
-// this is the dao gurl!
+// this is the dao
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
