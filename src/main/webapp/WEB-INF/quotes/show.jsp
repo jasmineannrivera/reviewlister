@@ -28,6 +28,7 @@
     <p>Author: ${quote.author}</p>
 
     <a href="/quotes/random" class="btn btn-primary">Get another random quote!</a>
+
 </div>
 
 </body>
